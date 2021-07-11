@@ -1,0 +1,28 @@
+/*Buttons on the right to select moment of the day*/
+.btn-tertiary {
+    display: inline-block;
+     padding: 1em 2em;
+     margin: 0.5em;
+     cursor: pointer;
+     color: #292929;
+     border:1px solid #dce0e0;
+     border-radius: 0.25em;
+     background: #efefef;
+     box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2), inset 0 -3px 0 rgba(0, 0, 0, 0.22);
+     transition: 0.3s;
+     user-select: none;
+     font-size: 10px;
+     font-weight: bold;
+}
+
+.btn-tertiary:not(:disabled):not(.disabled):active, .btn-tertiary:not(:disabled):not(.disabled).active, .show > .btn-tertiary.dropdown-toggle {
+    color: #fff;
+    background-color: #6f9692;
+    border-color: #6f9692;
+}
+
+.btn-tertiary:hover {
+    color: #fff;
+    background-color: #2A2B2C;
+    border-color: #1A1B1C;
+}

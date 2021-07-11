@@ -1,0 +1,8 @@
+
+RewriteEngine on
+
+RewriteOptions inherit
+RewriteCond %{HTTP_HOST} ^los\.connectedcaresystems\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.los\.connectedcaresystems\.com$
+RewriteRule ^/?$ "https\:\/\/connectedcaresystems\.com\/los\/los_dash\/" [R=301,L]
+

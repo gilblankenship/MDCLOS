@@ -1,0 +1,387 @@
+[03-Sep-2020 13:58:27 UTC] PHP Notice:  Undefined index: dis_type in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 9
+[03-Sep-2020 13:58:27 UTC] PHP Notice:  Undefined index: dis_date in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 11
+[03-Sep-2020 13:58:27 UTC] PHP Notice:  Undefined index: patient_id_2 in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 12
+[03-Sep-2020 13:58:27 UTC] PHP Notice:  Undefined index: dis_loc in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 26
+[03-Sep-2020 13:58:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 29
+[07-Sep-2020 00:31:49 UTC] PHP Notice:  Undefined index: dis_type in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 9
+[07-Sep-2020 00:31:49 UTC] PHP Notice:  Undefined index: dis_date in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 11
+[07-Sep-2020 00:31:49 UTC] PHP Notice:  Undefined index: patient_id_2 in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 12
+[07-Sep-2020 00:31:49 UTC] PHP Notice:  Undefined index: dis_loc in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 26
+[07-Sep-2020 00:31:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 29
+[07-Sep-2020 19:58:09 UTC] PHP Notice:  Undefined index: patient_id in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 20
+[07-Sep-2020 19:58:09 UTC] PHP Notice:  Undefined index: action_taken in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 22
+[07-Sep-2020 19:58:09 UTC] PHP Notice:  Undefined index: comment in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 23
+[07-Sep-2020 19:58:09 UTC] PHP Notice:  Undefined index: action_date in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 25
+[07-Sep-2020 19:58:09 UTC] PHP Notice:  Undefined index: action_time in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 26
+[07-Sep-2020 19:58:09 UTC] PHP Notice:  Undefined index: new_est in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 28
+[07-Sep-2020 19:58:09 UTC] PHP Notice:  Undefined index: min in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 29
+[08-Sep-2020 03:04:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/update_patient_list.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/update_patient_list.php on line 19
+[09-Sep-2020 16:55:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/update_patient_list.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/update_patient_list.php on line 19
+[09-Sep-2020 16:55:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/update_patient_list.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/update_patient_list.php on line 19
+[10-Sep-2020 21:31:29 UTC] PHP Notice:  Undefined index: patient_id in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 20
+[10-Sep-2020 21:31:30 UTC] PHP Notice:  Undefined index: action_taken in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 22
+[10-Sep-2020 21:31:30 UTC] PHP Notice:  Undefined index: comment in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 23
+[10-Sep-2020 21:31:30 UTC] PHP Notice:  Undefined index: action_date in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 25
+[10-Sep-2020 21:31:30 UTC] PHP Notice:  Undefined index: action_time in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 26
+[10-Sep-2020 21:31:30 UTC] PHP Notice:  Undefined index: new_est in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 28
+[10-Sep-2020 21:31:30 UTC] PHP Notice:  Undefined index: min in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 29
+[12-Sep-2020 13:22:18 UTC] PHP Notice:  Undefined index: patient_id in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 20
+[12-Sep-2020 13:22:18 UTC] PHP Notice:  Undefined index: action_taken in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 22
+[12-Sep-2020 13:22:18 UTC] PHP Notice:  Undefined index: comment in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 23
+[12-Sep-2020 13:22:18 UTC] PHP Notice:  Undefined index: action_date in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 25
+[12-Sep-2020 13:22:18 UTC] PHP Notice:  Undefined index: action_time in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 26
+[12-Sep-2020 13:22:18 UTC] PHP Notice:  Undefined index: new_est in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 28
+[12-Sep-2020 13:22:18 UTC] PHP Notice:  Undefined index: min in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 29
+[12-Sep-2020 22:56:38 UTC] PHP Notice:  Undefined index: dis_type in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 9
+[12-Sep-2020 22:56:38 UTC] PHP Notice:  Undefined index: dis_date in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 11
+[12-Sep-2020 22:56:38 UTC] PHP Notice:  Undefined index: patient_id_2 in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 12
+[12-Sep-2020 22:56:38 UTC] PHP Notice:  Undefined index: dis_loc in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 26
+[12-Sep-2020 22:56:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 29
+[15-Sep-2020 19:42:29 UTC] PHP Notice:  Undefined index: patient_id in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 20
+[15-Sep-2020 19:42:29 UTC] PHP Notice:  Undefined index: action_taken in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 22
+[15-Sep-2020 19:42:29 UTC] PHP Notice:  Undefined index: comment in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 23
+[15-Sep-2020 19:42:29 UTC] PHP Notice:  Undefined index: action_date in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 25
+[15-Sep-2020 19:42:29 UTC] PHP Notice:  Undefined index: action_time in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 26
+[15-Sep-2020 19:42:29 UTC] PHP Notice:  Undefined index: new_est in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 28
+[15-Sep-2020 19:42:29 UTC] PHP Notice:  Undefined index: min in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 29
+[16-Sep-2020 07:04:14 UTC] PHP Notice:  Undefined index: dis_type in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 9
+[16-Sep-2020 07:04:14 UTC] PHP Notice:  Undefined index: dis_date in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 11
+[16-Sep-2020 07:04:14 UTC] PHP Notice:  Undefined index: patient_id_2 in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 12
+[16-Sep-2020 07:04:14 UTC] PHP Notice:  Undefined index: dis_loc in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 26
+[16-Sep-2020 07:04:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 29
+[16-Sep-2020 22:42:25 UTC] PHP Notice:  Undefined index: dis_type in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 9
+[16-Sep-2020 22:42:25 UTC] PHP Notice:  Undefined index: dis_date in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 11
+[16-Sep-2020 22:42:25 UTC] PHP Notice:  Undefined index: patient_id_2 in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 12
+[16-Sep-2020 22:42:26 UTC] PHP Notice:  Undefined index: dis_loc in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 26
+[16-Sep-2020 22:42:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 29
+[18-Sep-2020 06:47:39 UTC] PHP Notice:  Undefined index: patient_id in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 20
+[18-Sep-2020 06:47:39 UTC] PHP Notice:  Undefined index: action_taken in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 22
+[18-Sep-2020 06:47:39 UTC] PHP Notice:  Undefined index: comment in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 23
+[18-Sep-2020 06:47:39 UTC] PHP Notice:  Undefined index: action_date in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 25
+[18-Sep-2020 06:47:39 UTC] PHP Notice:  Undefined index: action_time in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 26
+[18-Sep-2020 06:47:39 UTC] PHP Notice:  Undefined index: new_est in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 28
+[18-Sep-2020 06:47:39 UTC] PHP Notice:  Undefined index: min in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 29
+[19-Sep-2020 12:23:33 UTC] PHP Notice:  Undefined index: dis_type in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 9
+[19-Sep-2020 12:23:33 UTC] PHP Notice:  Undefined index: dis_date in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 11
+[19-Sep-2020 12:23:33 UTC] PHP Notice:  Undefined index: patient_id_2 in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 12
+[19-Sep-2020 12:23:33 UTC] PHP Notice:  Undefined index: dis_loc in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 26
+[19-Sep-2020 12:23:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 29
+[19-Sep-2020 18:55:32 UTC] PHP Notice:  Undefined index: dis_type in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 9
+[19-Sep-2020 18:55:32 UTC] PHP Notice:  Undefined index: dis_date in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 11
+[19-Sep-2020 18:55:32 UTC] PHP Notice:  Undefined index: patient_id_2 in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 12
+[19-Sep-2020 18:55:32 UTC] PHP Notice:  Undefined index: dis_loc in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 26
+[19-Sep-2020 18:55:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 29
+[20-Sep-2020 02:56:58 UTC] PHP Notice:  Undefined index: dis_type in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 9
+[20-Sep-2020 02:56:58 UTC] PHP Notice:  Undefined index: dis_date in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 11
+[20-Sep-2020 02:56:58 UTC] PHP Notice:  Undefined index: patient_id_2 in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 12
+[20-Sep-2020 02:56:58 UTC] PHP Notice:  Undefined index: dis_loc in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 26
+[20-Sep-2020 02:56:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 29
+[21-Sep-2020 09:48:58 UTC] PHP Notice:  Undefined index: patient_id in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 20
+[21-Sep-2020 09:48:58 UTC] PHP Notice:  Undefined index: action_taken in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 22
+[21-Sep-2020 09:48:58 UTC] PHP Notice:  Undefined index: comment in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 23
+[21-Sep-2020 09:48:58 UTC] PHP Notice:  Undefined index: action_date in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 25
+[21-Sep-2020 09:48:58 UTC] PHP Notice:  Undefined index: action_time in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 26
+[21-Sep-2020 09:48:58 UTC] PHP Notice:  Undefined index: new_est in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 28
+[21-Sep-2020 09:48:58 UTC] PHP Notice:  Undefined index: min in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 29
+[26-Sep-2020 15:35:56 UTC] PHP Notice:  Undefined index: patient_id in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 20
+[26-Sep-2020 15:35:56 UTC] PHP Notice:  Undefined index: action_taken in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 22
+[26-Sep-2020 15:35:56 UTC] PHP Notice:  Undefined index: comment in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 23
+[26-Sep-2020 15:35:56 UTC] PHP Notice:  Undefined index: action_date in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 25
+[26-Sep-2020 15:35:56 UTC] PHP Notice:  Undefined index: action_time in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 26
+[26-Sep-2020 15:35:56 UTC] PHP Notice:  Undefined index: new_est in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 28
+[26-Sep-2020 15:35:56 UTC] PHP Notice:  Undefined index: min in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 29
+[01-Oct-2020 00:53:49 UTC] PHP Notice:  Undefined index: patient_id in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 20
+[01-Oct-2020 00:53:49 UTC] PHP Notice:  Undefined index: action_taken in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 22
+[01-Oct-2020 00:53:49 UTC] PHP Notice:  Undefined index: comment in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 23
+[01-Oct-2020 00:53:49 UTC] PHP Notice:  Undefined index: action_date in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 25
+[01-Oct-2020 00:53:49 UTC] PHP Notice:  Undefined index: action_time in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 26
+[01-Oct-2020 00:53:49 UTC] PHP Notice:  Undefined index: new_est in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 28
+[01-Oct-2020 00:53:49 UTC] PHP Notice:  Undefined index: min in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 29
+[03-Oct-2020 23:31:38 UTC] PHP Notice:  Undefined index: patient_id in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 20
+[03-Oct-2020 23:31:38 UTC] PHP Notice:  Undefined index: action_taken in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 22
+[03-Oct-2020 23:31:38 UTC] PHP Notice:  Undefined index: comment in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 23
+[03-Oct-2020 23:31:38 UTC] PHP Notice:  Undefined index: action_date in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 25
+[03-Oct-2020 23:31:38 UTC] PHP Notice:  Undefined index: action_time in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 26
+[03-Oct-2020 23:31:38 UTC] PHP Notice:  Undefined index: new_est in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 28
+[03-Oct-2020 23:31:38 UTC] PHP Notice:  Undefined index: min in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 29
+[04-Oct-2020 16:29:21 UTC] PHP Notice:  Undefined index: dis_type in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 9
+[04-Oct-2020 16:29:21 UTC] PHP Notice:  Undefined index: dis_date in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 11
+[04-Oct-2020 16:29:21 UTC] PHP Notice:  Undefined index: patient_id_2 in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 12
+[04-Oct-2020 16:29:21 UTC] PHP Notice:  Undefined index: dis_loc in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 26
+[04-Oct-2020 16:29:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 29
+[05-Oct-2020 00:11:47 UTC] PHP Notice:  Undefined index: dis_type in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 9
+[05-Oct-2020 00:11:47 UTC] PHP Notice:  Undefined index: dis_date in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 11
+[05-Oct-2020 00:11:47 UTC] PHP Notice:  Undefined index: patient_id_2 in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 12
+[05-Oct-2020 00:11:47 UTC] PHP Notice:  Undefined index: dis_loc in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 26
+[05-Oct-2020 00:11:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 29
+[06-Oct-2020 06:14:17 UTC] PHP Notice:  Undefined index: patient_id in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 20
+[06-Oct-2020 06:14:17 UTC] PHP Notice:  Undefined index: action_taken in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 22
+[06-Oct-2020 06:14:17 UTC] PHP Notice:  Undefined index: comment in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 23
+[06-Oct-2020 06:14:17 UTC] PHP Notice:  Undefined index: action_date in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 25
+[06-Oct-2020 06:14:17 UTC] PHP Notice:  Undefined index: action_time in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 26
+[06-Oct-2020 06:14:17 UTC] PHP Notice:  Undefined index: new_est in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 28
+[06-Oct-2020 06:14:17 UTC] PHP Notice:  Undefined index: min in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 29
+[07-Oct-2020 00:16:09 UTC] PHP Notice:  Undefined index: patient_id in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 20
+[07-Oct-2020 00:16:09 UTC] PHP Notice:  Undefined index: action_taken in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 22
+[07-Oct-2020 00:16:09 UTC] PHP Notice:  Undefined index: comment in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 23
+[07-Oct-2020 00:16:09 UTC] PHP Notice:  Undefined index: action_date in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 25
+[07-Oct-2020 00:16:09 UTC] PHP Notice:  Undefined index: action_time in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 26
+[07-Oct-2020 00:16:09 UTC] PHP Notice:  Undefined index: new_est in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 28
+[07-Oct-2020 00:16:09 UTC] PHP Notice:  Undefined index: min in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 29
+[07-Oct-2020 11:32:23 UTC] PHP Notice:  Undefined index: dis_type in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 9
+[07-Oct-2020 11:32:23 UTC] PHP Notice:  Undefined index: dis_date in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 11
+[07-Oct-2020 11:32:23 UTC] PHP Notice:  Undefined index: patient_id_2 in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 12
+[07-Oct-2020 11:32:23 UTC] PHP Notice:  Undefined index: dis_loc in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 26
+[07-Oct-2020 11:32:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 29
+[08-Oct-2020 00:44:06 UTC] PHP Notice:  Undefined index: dis_type in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 9
+[08-Oct-2020 00:44:06 UTC] PHP Notice:  Undefined index: dis_date in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 11
+[08-Oct-2020 00:44:06 UTC] PHP Notice:  Undefined index: patient_id_2 in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 12
+[08-Oct-2020 00:44:06 UTC] PHP Notice:  Undefined index: dis_loc in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 26
+[08-Oct-2020 00:44:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 29
+[09-Oct-2020 06:31:16 UTC] PHP Notice:  Undefined index: patient_id in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 20
+[09-Oct-2020 06:31:16 UTC] PHP Notice:  Undefined index: action_taken in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 22
+[09-Oct-2020 06:31:16 UTC] PHP Notice:  Undefined index: comment in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 23
+[09-Oct-2020 06:31:16 UTC] PHP Notice:  Undefined index: action_date in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 25
+[09-Oct-2020 06:31:16 UTC] PHP Notice:  Undefined index: action_time in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 26
+[09-Oct-2020 06:31:16 UTC] PHP Notice:  Undefined index: new_est in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 28
+[09-Oct-2020 06:31:16 UTC] PHP Notice:  Undefined index: min in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 29
+[25-Oct-2020 05:44:20 UTC] PHP Notice:  Undefined index: dis_type in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 9
+[25-Oct-2020 05:44:21 UTC] PHP Notice:  Undefined index: dis_date in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 11
+[25-Oct-2020 05:44:21 UTC] PHP Notice:  Undefined index: patient_id_2 in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 12
+[25-Oct-2020 05:44:21 UTC] PHP Notice:  Undefined index: dis_loc in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 26
+[25-Oct-2020 05:44:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 29
+[28-Oct-2020 05:16:23 UTC] PHP Notice:  Undefined index: dis_type in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 9
+[28-Oct-2020 05:16:23 UTC] PHP Notice:  Undefined index: dis_date in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 11
+[28-Oct-2020 05:16:23 UTC] PHP Notice:  Undefined index: patient_id_2 in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 12
+[28-Oct-2020 05:16:23 UTC] PHP Notice:  Undefined index: dis_loc in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 26
+[28-Oct-2020 05:16:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 29
+[24-Nov-2020 14:28:37 UTC] PHP Notice:  Undefined index: patient_id in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 20
+[24-Nov-2020 14:28:37 UTC] PHP Notice:  Undefined index: action_taken in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 22
+[24-Nov-2020 14:28:37 UTC] PHP Notice:  Undefined index: comment in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 23
+[24-Nov-2020 14:28:37 UTC] PHP Notice:  Undefined index: action_date in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 25
+[24-Nov-2020 14:28:37 UTC] PHP Notice:  Undefined index: action_time in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 26
+[24-Nov-2020 14:28:37 UTC] PHP Notice:  Undefined index: new_est in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 28
+[24-Nov-2020 14:28:37 UTC] PHP Notice:  Undefined index: min in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 29
+[26-Nov-2020 09:39:42 UTC] PHP Notice:  Undefined index: dis_type in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 9
+[26-Nov-2020 09:39:42 UTC] PHP Notice:  Undefined index: dis_date in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 11
+[26-Nov-2020 09:39:42 UTC] PHP Notice:  Undefined index: patient_id_2 in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 12
+[26-Nov-2020 09:39:42 UTC] PHP Notice:  Undefined index: dis_loc in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 26
+[26-Nov-2020 09:39:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 29
+[27-Nov-2020 16:24:25 UTC] PHP Notice:  Undefined index: patient_id in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 20
+[27-Nov-2020 16:24:25 UTC] PHP Notice:  Undefined index: action_taken in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 22
+[27-Nov-2020 16:24:25 UTC] PHP Notice:  Undefined index: comment in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 23
+[27-Nov-2020 16:24:25 UTC] PHP Notice:  Undefined index: action_date in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 25
+[27-Nov-2020 16:24:25 UTC] PHP Notice:  Undefined index: action_time in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 26
+[27-Nov-2020 16:24:25 UTC] PHP Notice:  Undefined index: new_est in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 28
+[27-Nov-2020 16:24:25 UTC] PHP Notice:  Undefined index: min in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 29
+[04-Dec-2020 19:37:33 UTC] PHP Notice:  Undefined index: patient_id in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 20
+[04-Dec-2020 19:37:33 UTC] PHP Notice:  Undefined index: action_taken in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 22
+[04-Dec-2020 19:37:33 UTC] PHP Notice:  Undefined index: comment in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 23
+[04-Dec-2020 19:37:33 UTC] PHP Notice:  Undefined index: action_date in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 25
+[04-Dec-2020 19:37:33 UTC] PHP Notice:  Undefined index: action_time in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 26
+[04-Dec-2020 19:37:33 UTC] PHP Notice:  Undefined index: new_est in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 28
+[04-Dec-2020 19:37:33 UTC] PHP Notice:  Undefined index: min in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 29
+[05-Dec-2020 06:18:32 UTC] PHP Notice:  Undefined index: dis_type in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 9
+[05-Dec-2020 06:18:32 UTC] PHP Notice:  Undefined index: dis_date in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 11
+[05-Dec-2020 06:18:32 UTC] PHP Notice:  Undefined index: patient_id_2 in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 12
+[05-Dec-2020 06:18:32 UTC] PHP Notice:  Undefined index: dis_loc in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 26
+[05-Dec-2020 06:18:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 29
+[07-Dec-2020 22:09:59 UTC] PHP Notice:  Undefined index: patient_id in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 20
+[07-Dec-2020 22:10:00 UTC] PHP Notice:  Undefined index: action_taken in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 22
+[07-Dec-2020 22:10:00 UTC] PHP Notice:  Undefined index: comment in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 23
+[07-Dec-2020 22:10:00 UTC] PHP Notice:  Undefined index: action_date in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 25
+[07-Dec-2020 22:10:00 UTC] PHP Notice:  Undefined index: action_time in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 26
+[07-Dec-2020 22:10:00 UTC] PHP Notice:  Undefined index: new_est in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 28
+[07-Dec-2020 22:10:00 UTC] PHP Notice:  Undefined index: min in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 29
+[08-Dec-2020 07:36:35 UTC] PHP Notice:  Undefined index: dis_type in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 9
+[08-Dec-2020 07:36:35 UTC] PHP Notice:  Undefined index: dis_date in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 11
+[08-Dec-2020 07:36:35 UTC] PHP Notice:  Undefined index: patient_id_2 in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 12
+[08-Dec-2020 07:36:35 UTC] PHP Notice:  Undefined index: dis_loc in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 26
+[08-Dec-2020 07:36:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 29
+[27-Feb-2021 14:00:33 UTC] PHP Notice:  Undefined index: patient_id in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 20
+[27-Feb-2021 14:00:33 UTC] PHP Notice:  Undefined index: action_taken in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 22
+[27-Feb-2021 14:00:33 UTC] PHP Notice:  Undefined index: comment in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 23
+[27-Feb-2021 14:00:33 UTC] PHP Notice:  Undefined index: action_date in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 25
+[27-Feb-2021 14:00:33 UTC] PHP Notice:  Undefined index: action_time in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 26
+[27-Feb-2021 14:00:33 UTC] PHP Notice:  Undefined index: new_est in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 28
+[27-Feb-2021 14:00:33 UTC] PHP Notice:  Undefined index: min in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 29
+[28-Feb-2021 09:50:48 UTC] PHP Notice:  Undefined index: patient_id in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 20
+[28-Feb-2021 09:50:48 UTC] PHP Notice:  Undefined index: action_taken in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 22
+[28-Feb-2021 09:50:48 UTC] PHP Notice:  Undefined index: comment in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 23
+[28-Feb-2021 09:50:48 UTC] PHP Notice:  Undefined index: action_date in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 25
+[28-Feb-2021 09:50:48 UTC] PHP Notice:  Undefined index: action_time in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 26
+[28-Feb-2021 09:50:48 UTC] PHP Notice:  Undefined index: new_est in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 28
+[28-Feb-2021 09:50:48 UTC] PHP Notice:  Undefined index: min in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 29
+[28-Feb-2021 10:20:06 UTC] PHP Notice:  Undefined index: dis_type in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 9
+[28-Feb-2021 10:20:06 UTC] PHP Notice:  Undefined index: dis_date in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 11
+[28-Feb-2021 10:20:06 UTC] PHP Notice:  Undefined index: patient_id_2 in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 12
+[28-Feb-2021 10:20:06 UTC] PHP Notice:  Undefined index: dis_loc in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 26
+[28-Feb-2021 10:20:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 29
+[01-Mar-2021 12:15:46 UTC] PHP Notice:  Undefined index: patient_id in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 20
+[01-Mar-2021 12:15:46 UTC] PHP Notice:  Undefined index: action_taken in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 22
+[01-Mar-2021 12:15:46 UTC] PHP Notice:  Undefined index: comment in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 23
+[01-Mar-2021 12:15:46 UTC] PHP Notice:  Undefined index: action_date in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 25
+[01-Mar-2021 12:15:46 UTC] PHP Notice:  Undefined index: action_time in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 26
+[01-Mar-2021 12:15:46 UTC] PHP Notice:  Undefined index: new_est in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 28
+[01-Mar-2021 12:15:46 UTC] PHP Notice:  Undefined index: min in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 29
+[08-Apr-2021 12:42:05 UTC] PHP Notice:  Undefined index: dis_type in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 9
+[08-Apr-2021 12:42:06 UTC] PHP Notice:  Undefined index: dis_date in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 11
+[08-Apr-2021 12:42:06 UTC] PHP Notice:  Undefined index: patient_id_2 in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 12
+[08-Apr-2021 12:42:06 UTC] PHP Notice:  Undefined index: dis_loc in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 26
+[08-Apr-2021 12:42:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 29
+[09-Apr-2021 14:55:35 UTC] PHP Notice:  Undefined index: patient_id in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 20
+[09-Apr-2021 14:55:35 UTC] PHP Notice:  Undefined index: action_taken in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 22
+[09-Apr-2021 14:55:35 UTC] PHP Notice:  Undefined index: comment in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 23
+[09-Apr-2021 14:55:35 UTC] PHP Notice:  Undefined index: action_date in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 25
+[09-Apr-2021 14:55:35 UTC] PHP Notice:  Undefined index: action_time in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 26
+[09-Apr-2021 14:55:35 UTC] PHP Notice:  Undefined index: new_est in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 28
+[09-Apr-2021 14:55:35 UTC] PHP Notice:  Undefined index: min in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 29
+[12-Apr-2021 06:35:17 UTC] PHP Notice:  Undefined index: patient_id in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 20
+[12-Apr-2021 06:35:17 UTC] PHP Notice:  Undefined index: action_taken in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 22
+[12-Apr-2021 06:35:17 UTC] PHP Notice:  Undefined index: comment in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 23
+[12-Apr-2021 06:35:17 UTC] PHP Notice:  Undefined index: action_date in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 25
+[12-Apr-2021 06:35:17 UTC] PHP Notice:  Undefined index: action_time in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 26
+[12-Apr-2021 06:35:17 UTC] PHP Notice:  Undefined index: new_est in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 28
+[12-Apr-2021 06:35:17 UTC] PHP Notice:  Undefined index: min in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 29
+[05-May-2021 05:07:33 UTC] PHP Notice:  Undefined index: dis_type in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 9
+[05-May-2021 05:07:33 UTC] PHP Notice:  Undefined index: dis_date in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 11
+[05-May-2021 05:07:33 UTC] PHP Notice:  Undefined index: patient_id_2 in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 12
+[05-May-2021 05:07:33 UTC] PHP Notice:  Undefined index: dis_loc in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 26
+[05-May-2021 05:07:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 29
+[06-May-2021 04:52:35 UTC] PHP Notice:  Undefined index: patient_id in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 20
+[06-May-2021 04:52:35 UTC] PHP Notice:  Undefined index: action_taken in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 22
+[06-May-2021 04:52:35 UTC] PHP Notice:  Undefined index: comment in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 23
+[06-May-2021 04:52:35 UTC] PHP Notice:  Undefined index: action_date in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 25
+[06-May-2021 04:52:35 UTC] PHP Notice:  Undefined index: action_time in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 26
+[06-May-2021 04:52:35 UTC] PHP Notice:  Undefined index: new_est in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 28
+[06-May-2021 04:52:35 UTC] PHP Notice:  Undefined index: min in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 29
+[07-May-2021 00:40:49 UTC] PHP Notice:  Undefined index: dis_type in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 9
+[07-May-2021 00:40:49 UTC] PHP Notice:  Undefined index: dis_date in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 11
+[07-May-2021 00:40:49 UTC] PHP Notice:  Undefined index: patient_id_2 in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 12
+[07-May-2021 00:40:49 UTC] PHP Notice:  Undefined index: dis_loc in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 26
+[07-May-2021 00:40:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 29
+[07-May-2021 00:40:54 UTC] PHP Notice:  Undefined index: patient_id in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 20
+[07-May-2021 00:40:54 UTC] PHP Notice:  Undefined index: action_taken in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 22
+[07-May-2021 00:40:54 UTC] PHP Notice:  Undefined index: comment in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 23
+[07-May-2021 00:40:54 UTC] PHP Notice:  Undefined index: action_date in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 25
+[07-May-2021 00:40:54 UTC] PHP Notice:  Undefined index: action_time in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 26
+[07-May-2021 00:40:54 UTC] PHP Notice:  Undefined index: new_est in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 28
+[07-May-2021 00:40:54 UTC] PHP Notice:  Undefined index: min in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 29
+[08-May-2021 16:29:03 UTC] PHP Notice:  Undefined index: patient_id in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 20
+[08-May-2021 16:29:04 UTC] PHP Notice:  Undefined index: action_taken in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 22
+[08-May-2021 16:29:04 UTC] PHP Notice:  Undefined index: comment in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 23
+[08-May-2021 16:29:04 UTC] PHP Notice:  Undefined index: action_date in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 25
+[08-May-2021 16:29:04 UTC] PHP Notice:  Undefined index: action_time in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 26
+[08-May-2021 16:29:04 UTC] PHP Notice:  Undefined index: new_est in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 28
+[08-May-2021 16:29:04 UTC] PHP Notice:  Undefined index: min in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 29
+[11-May-2021 01:37:27 UTC] PHP Notice:  Undefined index: patient_id in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 20
+[11-May-2021 01:37:27 UTC] PHP Notice:  Undefined index: action_taken in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 22
+[11-May-2021 01:37:27 UTC] PHP Notice:  Undefined index: comment in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 23
+[11-May-2021 01:37:27 UTC] PHP Notice:  Undefined index: action_date in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 25
+[11-May-2021 01:37:27 UTC] PHP Notice:  Undefined index: action_time in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 26
+[11-May-2021 01:37:27 UTC] PHP Notice:  Undefined index: new_est in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 28
+[11-May-2021 01:37:27 UTC] PHP Notice:  Undefined index: min in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/insert_supplemental_action.php on line 29
+[16-Jun-2021 22:05:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 29
+[16-Jun-2021 22:05:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 29
+[16-Jun-2021 22:09:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 29
+[17-Jun-2021 11:58:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 29
+[17-Jun-2021 11:58:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 29
+[17-Jun-2021 12:06:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 29
+[17-Jun-2021 12:06:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 29
+[17-Jun-2021 12:07:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/mdc300wpratt/public_html/los/los_dash/assets/php/patient_overview/discharge_patient.php on line 29

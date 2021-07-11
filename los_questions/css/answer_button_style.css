@@ -1,0 +1,293 @@
+
+ @import url(https://fonts.googleapis.com/css?family=Lato:300,400,900);
+ * {
+	 box-sizing: border-box;
+}
+/* handles the question button position */
+ .button-wrap {
+	 position: relative;
+	 text-align: center;
+	 top: 50%;
+	 margin-top: -2.5em;
+}
+
+#los_dash , #return {
+display:inline-block;
+/**other codes**/
+}
+
+/* Sets up question button size, used while making the label for the button*/ 
+ .question_button {
+	 display: inline-block;
+	 padding: 1em 2em;
+	 margin: 0.5em;
+	 cursor: pointer;
+	 color: #292929;
+	 border-radius: 0.25em;
+	 border:hidden;
+	 background: #efefef;
+	 box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2), inset 0 -3px 0 rgba(0, 0, 0, 0.22);
+	 transition: 0.3s;
+	 user-select: none;
+}
+
+/* Sets up the question button's attributes: font-size, font*/
+ .question_button h1{
+	 font-size: 2em;
+	 font-family: "Lato", sans-serif;
+}
+
+/* Slightly changes the shade of color when the cursor is hovering over the 
+   question button */
+ .question_button:hover {
+	 background: #d6d6d6;
+	 color: #101010;
+	 box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2), inset 0 -3px 0 rgba(0, 0, 0, 0.32);
+}
+
+/* Slightly shifts the question button when the button is being pressed down */
+ .question_button:active {
+	 transform: translateY(2px);
+	 box-shadow: 
+	    0 3px 10px rgba(0, 0, 0, 0.2), inset 0px -1px 0 rgba(0, 0, 0, 0.22);
+}
+
+/* If the screen is < 80 em, the question buttons are moved slightly upwards */
+ @media (max-width: 80em) {
+	 .button-wrap {
+		 margin-top: -1.5em;
+	}
+} 
+
+/* If the screen is < 80 em, the question buttons are reduced in size */
+ @media (max-width: 80em) {
+	 .question_button {
+		 padding: 0em 1em 3px;
+		 margin: 0.25em;
+	}
+}
+
+ #radio_model_1:checked + .question_button {
+	 background: #343a40;
+	 color: #efefef;
+}
+ #radio_model_1:checked + .question_button:hover {
+	 background: #5E6369;
+	 color: #e2e2e2;
+}
+ #radio_model_2:checked + .question_button {
+	 background: #343a40;
+	 color: #efefef;
+}
+ #radio_model_2:checked + .question_button:hover {
+	 background: #5E6369;
+	 color: #e2e2e2;
+}
+
+ #radio_1_yes:checked + .question_button {
+	 background: #343a40;
+	 color: #efefef;
+}
+ #radio_1_yes:checked + .question_button:hover {
+	 background: #5E6369;
+	 color: #e2e2e2;
+}
+ #radio_1_no:checked + .question_button {
+	 background: #343a40;
+	 color: #efefef;
+}
+ #radio_1_no:checked + .question_button:hover {
+	 background: #5E6369;
+	 color: #e2e2e2;
+}
+
+ #radio_2_1:checked + .question_button {
+	 background: #343a40;
+	 color: #efefef;
+}
+ #radio_2_1:checked + .question_button:hover {
+	 background: #5E6369;
+	 color: #e2e2e2;
+}
+ #radio_2_2:checked + .question_button {
+	 background: #343a40;
+	 color: #efefef;
+}
+ #radio_2_2:checked + .question_button:hover {
+	 background: #5E6369;
+	 color: #e2e2e2;
+}
+ #radio_2_3:checked + .question_button {
+	 background: #343a40;
+	 color: #efefef;
+}
+ #radio_2_3:checked + .question_button:hover {
+	 background: #5E6369;
+	 color: #e2e2e2;
+}
+ #radio_2_4:checked + .question_button {
+	 background: #343a40;
+	 color: #efefef;
+}
+ #radio_2_4:checked + .question_button:hover {
+	 background: #5E6369;
+	 color: #e2e2e2;
+}
+ #radio_2_5:checked + .question_button {
+	 background: #343a40;
+	 color: #efefef;
+}
+ #radio_2_5:checked + .question_button:hover {
+	 background: #5E6369;
+	 color: #e2e2e2;
+}
+
+
+ #radio_3_yes:checked + .question_button {
+	 background: #343a40;
+	 color: #efefef;
+}
+ #radio_3_yes:checked + .question_button:hover {
+	 background: #5E6369;
+	 color: #e2e2e2;
+}
+ #radio_3_no:checked + .question_button {
+	 background: #343a40;
+	 color: #efefef;
+}
+ #radio_3_no:checked + .question_button:hover {
+	 background: #5E6369;
+	 color: #e2e2e2;
+}
+
+ #radio_4_yes:checked + .question_button {
+	 background: #343a40;
+	 color: #efefef;
+}
+ #radio_4_yes:checked + .question_button:hover {
+	 background: #5E6369;
+	 color: #e2e2e2;
+}
+ #radio_4_no:checked + .question_button {
+	 background: #343a40;
+	 color: #efefef;
+}
+ #radio_4_no:checked + .question_button:hover {
+	 background: #5E6369;
+	 color: #e2e2e2;
+}
+
+ #radio_5_yes:checked + .question_button {
+	 background: #343a40;
+	 color: #efefef;
+}
+ #radio_5_yes:checked + .question_button:hover {
+	 background: #5E6369;
+	 color: #e2e2e2;
+}
+ #radio_5_no:checked + .question_button {
+	 background: #343a40;
+	 color: #efefef;
+}
+ #radio_5_no:checked + .question_button:hover {
+	 background: #5E6369;
+	 color: #e2e2e2;
+}
+
+ #radio_6_yes:checked + .question_button {
+	 background: #343a40;
+	 color: #efefef;
+}
+ #radio_6_yes:checked + .question_button:hover {
+	 background: #5E6369;
+	 color: #e2e2e2;
+}
+ #radio_6_no:checked + .question_button {
+	 background: #343a40;
+	 color: #efefef;
+}
+ #radio_6_no:checked + .question_button:hover {
+	 background: #5E6369;
+	 color: #e2e2e2;
+}
+
+ #radio_7_yes:checked + .question_button {
+	 background: #343a40;
+	 color: #efefef;
+}
+ #radio_7_yes:checked + .question_button:hover {
+	 background: #5E6369;
+	 color: #e2e2e2;
+}
+ #radio_7_no:checked + .question_button {
+	 background: #343a40;
+	 color: #efefef;
+}
+ #radio_7_no:checked + .question_button:hover {
+	 background: #5E6369;
+	 color: #e2e2e2;
+}
+
+ #radio_8_yes:checked + .question_button {
+	 background: #343a40;
+	 color: #efefef;
+}
+ #radio_8_yes:checked + .question_button:hover {
+	 background: #5E6369;
+	 color: #e2e2e2;
+}
+ #radio_8_no:checked + .question_button {
+	 background: #343a40;
+	 color: #efefef;
+}
+ #radio_8_no:checked + .question_button:hover {
+	 background: #5E6369;
+	 color: #e2e2e2;
+}
+
+ #radio_submit:checked + .question_button {
+	 background: #343a40;
+	 color: #efefef;
+}
+ #radio_submit:checked + .question_button:hover {
+	 background: #5E6369;
+	 color: #e2e2e2;
+}
+
+ #radio_return:checked + .question_button {
+	 background: #343a40;
+	 color: #efefef;
+}
+ #radio_return:checked + .question_button:hover {
+	 background: #5E6369;
+	 color: #e2e2e2;
+}
+
+ #radio_back:checked + .question_button {
+	 background: #343a40;
+	 color: #efefef;
+}
+ #radio_back:checked + .question_button:hover {
+	 background: #5E6369;
+	 color: #e2e2e2;
+}
+
+ #radio_db:checked + .question_button {
+	 background: #343a40;
+	 color: #efefef;
+}
+ #radio_db:checked + .question_button:hover {
+	 background: #5E6369;
+	 color: #e2e2e2;
+}
+
+
+ .hidden {
+	 display: none;
+}
+ .style {
+    width: 400px;
+    margin-bottom: 0px;
+}
+
+

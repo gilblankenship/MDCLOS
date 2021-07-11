@@ -1,0 +1,4 @@
+[17-Sep-2020 07:37:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/mdc300wpratt/public_html/los/los_questions/php/update_patient_list.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mdc300wpratt/public_html/los/los_questions/php/update_patient_list.php on line 19

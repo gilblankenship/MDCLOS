@@ -1,0 +1,30 @@
+/*Buttons on the right to select moment of the day*/
+.btn-secondary {
+    display: inline-block;
+     padding: 1em 2em;
+     margin: 0.5em;
+     cursor: pointer;
+     color: #292929;
+     border:1px solid #dce0e0;
+     border-radius: 0.25em;
+     background: #efefef;
+     box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2), inset 0 -3px 0 rgba(0, 0, 0, 0.22);
+     transition: 0.3s;
+     user-select: none;
+     font-size: 10px;
+     font-weight: bold;
+}
+
+.btn-secondary:not(:disabled):not(.disabled):active, .btn-secondary:not(:disabled):not(.disabled).active, .show > .btn-secondary.dropdown-toggle {
+    color: #fff;
+    background-color: #6f9692;
+    border-color: #6f9692;
+}
+
+/*Select dropdown*/
+
+.btn-outline-secondary:not(:disabled):not(.disabled):active, .btn-outline-secondary:not(:disabled):not(.disabled).active, .show > .btn-outline-secondary.dropdown-toggle {
+    color: #fff;
+    background-color: #6f9692;
+    border-color: #6f9692;
+}
