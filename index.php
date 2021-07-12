@@ -112,7 +112,7 @@
                         <!-- second grouping; holds LOS estimator page -->
                         <ul class="nav flex-column mt-3 mb-2">
                             <li class="nav-item">
-                                <a class="nav-link" href="https://connectedcaresystems.com/los/los_questions/">
+                                <a class="nav-link" href="./los/los_questions/">
                                     <span data-feather="sliders"></span>
                                     LOS Estimator <span class="sr-only"></span>
                                 </a>
@@ -155,11 +155,11 @@
                                 
                                 <div class="d-flex flex-row justify-content-center w-100">
                                     <?php
-                                        $HOST = 'localhost';
-                                        $DATABASE = 'losdb';
-                                        $USER = 'root';
-                                        $PASSWORD = 'root';
-                                        $mysql = mysqli_connect($HOST,$USER,$PASSWORD,$DATABASE);
+                                        $servername = "localhost:3308";
+                                        $username = "gil";
+                                        $password = "bob";
+                                        $dbname = "losdb";
+                                        $mysqli = new mysqli($servername, $username, $password, $dbname);
                                         
                                         $query="SELECT MAX(est_los), MIN(est_los) FROM estimation_table";
                                         $set = $mysql->query($query);
@@ -200,9 +200,11 @@
                                                 <select class="custom-select" id="patient_admission" name="patient_admission">
                                                     <option disabled selected>Patient ID - Admission Date</option>
                                                     <?php
-                                                        $HOST = 'localhost';   $DATABASE = 'losdb';
-                                                        $USER = 'root';      $PASSWORD = 'root';
-                                                        $mysql = mysqli_connect($HOST,$USER,$PASSWORD,$DATABASE);
+                                                        $servername = "localhost:3308";
+                                                        $username = "gil";
+                                                        $password = "bob";
+                                                        $dbname = "losdb";
+                                                        $mysqli = new mysqli($servername, $username, $password, $dbname);
                                                         
                                                         $set = $mysql->query("select id, patient_id, entry_date from estimation_table order by entry_date desc");
                                                         
