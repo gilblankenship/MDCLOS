@@ -2,8 +2,8 @@
         'index.php'
         
         This page hosts the main dashboard of the LOS project. In it the admission 
-        statistics and distribution is being analysed with the parameters of the
-        models that contribute to aa longer or shorter LOS.
+        statistics and distribution are analysed with the parameters of the
+        models that contribute to a longer or shorter LOS.
 -->
 
 <!DOCTYPE html>
